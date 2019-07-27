@@ -5,6 +5,7 @@
 ## requires:
 # names.txt which contains name list
 #
+# by Ogs Ablazo
 import os
 
 name_list=[x.strip() for x in open("names.txt",'r')]
